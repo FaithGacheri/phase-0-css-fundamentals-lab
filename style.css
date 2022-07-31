@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color: red;
+}
+header{
+  text-align: center;
+}
+#featured-property{
+  text-align: center;
+  width: 80%;
+  margin: auto;}
+
+#featured-property p{
+  width: 80%;
+  }
+  #details{
+    display: flex;
+  }
+  #details div{
+width: 33%;
+background-color: red;
+  }
